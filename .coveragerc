@@ -1,0 +1,12 @@
+[run]
+branch = True
+source = bubblesort
+relative_files = True
+
+[report]
+show_missing = True
+precision = 2
+
+[html]
+directory = reportes/cobertura
+title = Laboratorio 04 - Cobertura de Bubble Sort

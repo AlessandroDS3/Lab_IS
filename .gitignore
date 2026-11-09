@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.coverage
+.coverage.*
+tmp/
+.vscode/
+
+# Documentación y resultados locales: no publicar en GitHub.
+docs/
+output/
+reportes/
+README.md
